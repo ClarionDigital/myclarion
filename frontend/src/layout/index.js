@@ -217,7 +217,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            FireZAP - Firecloud.Solutions
+            Magos Chat - Sistema de Atendimentos via whatsapp
           </Typography>
           {user.id && <NotificationsPopOver />}
 
